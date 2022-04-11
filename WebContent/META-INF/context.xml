@@ -1,0 +1,12 @@
+ <Context> 
+    <Resource name="jdbc/embed21wyl"
+	 	auth="Container"
+	 	type="javax.sql.DataSource"
+		username="embed21wyl"
+		password="embed21wyl"
+	 	testOnBorrow="true"
+	 	driverClassName="com.mysql.cj.jdbc.Driver"
+	 	factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"
+	 	url="jdbc:mysql://118.131.179.138:3306/embed21wyl?serverTimezone=Asia/Seoul"
+	 	maxActive="500"/>     
+ </Context>

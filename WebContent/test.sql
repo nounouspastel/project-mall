@@ -1,0 +1,1 @@
+select * from product left join remainview on product.pseq = remainview.pseq1;
