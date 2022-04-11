@@ -21,7 +21,7 @@ response.setDateHeader("Expires", 0);
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20">
-								<strong>get set shop </strong>
+								<strong>get set shopasdfsadf </strong>
 							</h1>
 						</div>
 					</div>
